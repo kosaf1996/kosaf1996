@@ -1,4 +1,4 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=GyoungMinGu&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=AWS%20Cloud%20Engineer&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Gyoung%20Min%20Gu&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=AWS%20Cloud%20Engineer&descAlignY=70)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
