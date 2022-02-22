@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GyoungMinGu&fontSize=70&animation=twinkling)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=GyoungMinGu&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
